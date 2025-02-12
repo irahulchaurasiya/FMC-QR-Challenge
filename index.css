@@ -7,7 +7,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
   height: 100vh;
 }
 
@@ -15,15 +14,15 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 220px;
-  height: 350px;
+  width: 320px;
+  height: 450px;
   background-color: white;
   border-radius: 10px;
 }
 
 .imageClass {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   border-radius: 10px;
   margin: 10px;
 }
