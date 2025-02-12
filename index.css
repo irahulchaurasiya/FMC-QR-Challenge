@@ -45,6 +45,7 @@ body {
   align-items: center;
   flex-direction: column;
   margin-top: 4px;
+  color: hsl(218, 44%, 22%);
 }
 
 .smallText p {
